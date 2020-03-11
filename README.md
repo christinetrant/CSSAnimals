@@ -3,6 +3,6 @@ Animals created with Pure CSS
 
 [Demo][0]
 
-![Screenshot](cssanimals.png)
+![Screenshot](cssanimals.PNG)
 
-[0]:https://christinetrant.github.io/ana/
+[0]:https://christinetrant.github.io/CSSAnimals/.
